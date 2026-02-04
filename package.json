@@ -3,6 +3,11 @@
   "displayName": "Ghost Design",
   "description": "Overlay design images directly into your VS Code editor for pixel-perfect implementation.",
   "version": "0.0.1",
+  "publisher": "MdShahAmanPatwary",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TAIJULAMAN/ghost-design-vs-code-extention"
+  },
   "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.85.0"
